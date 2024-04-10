@@ -1,0 +1,1 @@
+var json_GeoCodingPluginResults_1 = {"type":"FeatureCollection","name":"GeoCodingPluginResults_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"address":"23, Oostrandpark, Lelystad, Flevoland, Nederland, 8212 AP, Nederland"},"geometry":{"type":"Point","coordinates":[5.5122808,52.5173082]}}]}
